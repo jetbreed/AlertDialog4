@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alert Dialog 4</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="username">jetbreed</string>
+    <string name="password">12345d@</string>
+</resources>
